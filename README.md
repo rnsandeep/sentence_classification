@@ -27,6 +27,8 @@ seperate models were trained for title and description classification.
 
 Final prediction code using ensemble models is at submission/predict 
 
+Please download the model file https://drive.google.com/file/d/1FAlb1Vfqi34yVvulKAGF8M0lgh3owIxy/view?usp=sharing and place it in submission/predict folder to run the following:
+
 To replicate the ensemble score mentioned in the document please run
 
 at submission/predict$  python3 predict_ensemble.py test1.csv 
